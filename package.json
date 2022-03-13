@@ -5,6 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.3",
-    "socket.io": "2.0.1"
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "socket.io": "^4.4.1"
   }
 }

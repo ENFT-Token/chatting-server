@@ -15,13 +15,13 @@
     },
     {
       "name": "socket_io_client",
-      "rootUri": "file:///C:/Users/JangSeongHo/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/socket_io_client-1.0.2",
+      "rootUri": "file:///C:/Users/JangSeongHo/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/socket_io_client-2.0.0-beta.4-nullsafety.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "socket_io_common",
-      "rootUri": "file:///C:/Users/JangSeongHo/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/socket_io_common-1.0.1",
+      "rootUri": "file:///C:/Users/JangSeongHo/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/socket_io_common-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -32,7 +32,7 @@
       "languageVersion": "2.10"
     }
   ],
-  "generated": "2022-03-12T10:40:55.384891Z",
+  "generated": "2022-03-13T07:02:03.757927Z",
   "generator": "pub",
   "generatorVersion": "2.16.0-134.5.beta"
 }
