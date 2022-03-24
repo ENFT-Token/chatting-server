@@ -12,6 +12,8 @@ main() {
     socket.emit('msg', 'test');
   });
   socket.on('event', (data) => print(data));
+  socket.on('textMessage', (data) => print(data));
+  socket.on('imageMessage', (data) => print(data));
   socket.onDisconnect((_) => print('disconnect'));
   socket.on('fromServer', (_) => print(_));
 }
